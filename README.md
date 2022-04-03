@@ -1,7 +1,7 @@
-# 【Kotlin】Android-LiveData类处理异步数据简明教程-初学者向
+# 【Kotlin】Android-LiveData类超简单处理异步数据
 
 #### LiveData使用的简易案例
-简单的代码案例，但包含了完整的使用流程
+极简单的案例，演示了LiveData类最基本用法
 
 #### 最近更新时间
 2022.04.02
@@ -14,3 +14,6 @@ Android Studio 2020.3.0.0
 
 #### 有疑问？
 如果您在使用的过程中有任何疑问，请评论在本项目下方，我会尽快回复
+
+#### 原文链接
+https://blog.csdn.net/qq_50920297/article/details/123921101
